@@ -1,16 +1,18 @@
 ## 😸 Hai, I'm Jacob!
 
-I am A High School Freshman Currently In Vocational School for Computer Networking. My Dream Job is Network Penetration Tester (Ethical Hacking!) I am (Almost) Always up for a conversation about coding, weather it be a Teaching or Learning oppertunity!
+I am A High School Freshman Currently In Vocational School for Computer Networking. My Dream Job is Network Penetration Tester (Ethical Hacking!) I am (Almost) Always up for a conversation about programming, weather it be a Teaching or Learning oppertunity!
 
 ### 🚀 What I Am Working on
 
-- ~~Wasting time~~ School
+- School
 - Making Minecraft Mods, Resource packs, and Utilities
+- Random Side Projects
+- ~~Wasting time~~
 
 ### ⚙️ Languages I have functioning experience in
 
 - Node.js
-- C
+- C/C++
 - Java
 - Python
 
@@ -48,6 +50,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 <li><a href="https://github.com/ToxicAven/ResourcePacks/blob/main/NyanNetherrack.zip?raw=true">Nyan Netherrack</a></li>
 <li><a href="https://github.com/ToxicAven/ResourcePacks/blob/main/TwinTowersNetherrack.zip?raw=true">Illville's Twin Towers Netherrack</a></li>
 <li><a href="https://github.com/ToxicAven/ResourcePacks/blob/main/Ill'sAnimatedTotem.zip?raw=true">Illville's Skin Totem</a></li>
+<li><a href="https://youtu.be/dQw4w9WgXcQ">Latest Experimental Pack</a></li>
 <br>
 I also made a few textures on the Motorway Extension Guru's <a href="https://meg.one/designer/">Pack Designer</a>!
 </ul>
