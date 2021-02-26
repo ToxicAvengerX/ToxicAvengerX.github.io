@@ -22,7 +22,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 ### ✨ Communities I Am Active In
 
 - Minecraft
-  - Anarchy, I Work with the Motorway Extention Gurus [MEG's Website](https://meg.one)
+  - Anarchy, I Work with the Motorway Extention Gurus! [MEG's Website](https://meg.one)
   - Modding (Working on Learning Forge 1.12.2, and Fabric Latest)
 
 ### 💎 Projects I have worked on
