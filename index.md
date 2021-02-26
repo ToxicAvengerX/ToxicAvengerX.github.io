@@ -35,7 +35,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 
 - Discord: `ToxicAven#3678`
 
-### Minecraft Resource Packs
+### 🖌️ Minecraft 1.12.2 Resource Packs
 
 <details>
   <summary><b>View List</b></summary>
@@ -49,7 +49,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 <li><a href="https://github.com/ToxicAven/ResourcePacks/blob/main/TwinTowersNetherrack.zip?raw=true">Illville's Twin Towers Netherrack</a></li>
 <li><a href="https://github.com/ToxicAven/ResourcePacks/blob/main/Ill'sAnimatedTotem.zip?raw=true">Illville's Skin Totem</a></li>
 <br>
-I also made a few texture on the Motorway Extension Guru's <a href="https://meg.one/designer/">Pack Designer</a>!
+I also made a few textures on the Motorway Extension Guru's <a href="https://meg.one/designer/">Pack Designer</a>!
 </ul>
 
 </details>
