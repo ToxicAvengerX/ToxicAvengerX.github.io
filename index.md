@@ -50,6 +50,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 <li><a href="https://github.com/ToxicAven/ResourcePacks/blob/main/NyanNetherrack.zip?raw=true">Nyan Netherrack</a></li>
 <li><a href="https://github.com/ToxicAven/ResourcePacks/blob/main/TwinTowersNetherrack.zip?raw=true">Illville's Twin Towers Netherrack</a></li>
 <li><a href="https://github.com/ToxicAven/ResourcePacks/blob/main/Ill'sAnimatedTotem.zip?raw=true">Illville's Skin Totem</a></li>
+<li><a href="https://github.com/ToxicAven/ResourcePacks/blob/main/IllsCorruptedGapple.zip?raw=true">Illville's Glitched Gapple</a></li>
 <li><a href="https://raw.githubusercontent.com/ToxicAven/ToxicAven/main/experimental.gif">Latest Experimental Pack</a></li>
 <br>
 I also made a few textures on the Motorway Extension Guru's <a href="https://meg.one/designer/">Pack Designer</a>!
