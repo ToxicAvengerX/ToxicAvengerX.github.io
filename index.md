@@ -36,7 +36,8 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 ### 📫 How to contact me
 
 - Discord: `ToxicAven#3678`
-- - Keybase: [toxicaven](https://keybase.io/toxicaven)
+- Keybase: `toxicaven` [Direct](https://keybase.io/toxicaven)
+- Matrix: `@toxicaven:matrix.org`
 
 ### 🖌️ Minecraft 1.12.2 Resource Packs
 
