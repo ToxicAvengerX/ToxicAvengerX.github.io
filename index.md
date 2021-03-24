@@ -39,6 +39,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 - Keybase: `toxicaven` [Direct](https://keybase.io/toxicaven)
 - Matrix: `@toxicaven:matrix.org`
 
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&count_private=true&show_icons=true&theme=tokyonight&hide=stars,contribs)
 ### 🖌️ Minecraft 1.12.2 Resource Packs
 
 <details>
