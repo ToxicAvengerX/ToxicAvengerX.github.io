@@ -1,6 +1,6 @@
 ## 😸 Hai, I'm Jacob!
 
-I am A High School Freshman Currently In Vocational School for Computer Networking. My Dream Job is Network Penetration Tester (Ethical Hacking!) I am (Almost) Always up for a conversation about programming, weather it be a Teaching or Learning oppertunity!
+I am A High School Freshman Currently In Vocational School for Computer Networking. My Dream Job is Network Penetration Tester (Ethical Hacking!) I am (Almost) Always up for a conversation about programming, whether it be a Teaching or Learning oppertunity!
 
 ### 🚀 What I Am Working on
 
