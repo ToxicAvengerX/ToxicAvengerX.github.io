@@ -7,36 +7,38 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 - School
 - Making Minecraft Mods, Resource packs, and Utilities
 - Random Side Projects
-- ~~Wasting time~~
 
 ### ⚙️ Languages I have functioning experience in
 
 - Node.js
-- C/C++
-- Java
+  - Express
+  - Discord.js
+  - (Learning) Stockfish.js
+- C++
+- Java/Kotlin
 - Python
 
 #### Languages Im learning
 
 - Visual Basic
-- Kotlin
 
 ### ✨ Communities I Am Active In
 
 - Minecraft
   - Anarchy, I Work with the Motorway Extention Gurus! [MEG's Website](https://meg.one)
-  - Modding (Working on Learning Forge 1.12.2, and Fabric Latest)
+  - Modding (Particularly for Anarchy servers)
 
 ### 💎 Projects I have worked on
 
 - [Onryx](https://github.com/ToxicAven/onryx), A small Discord bot I made to get aquainted with Node and D.js
-- [HardwareIdentifier](https://github.com/ToxicAven/HardwareIdentifier), the most basic way to generate a Hardware ID
+- [Kami Blue](https://github.org/kami-blue/client) A now archived minecraft utility mod aimed at anarchy servers
 
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&count_private=true&show_icons=true&hide=stars,contribs)
+![Jacob Herd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&count_private=true&show_icons=true&theme=tokyonight)
+
 ### 📫 How to contact me
 
 - Discord: `ToxicAven#3678`
-- Keybase: `toxicaven` [Direct](https://keybase.io/toxicaven)
+- Keybase: `toxicaven`
 - Matrix: `@toxicaven:matrix.org`
 
 ### 🖌️ Minecraft 1.12.2 Resource Packs
