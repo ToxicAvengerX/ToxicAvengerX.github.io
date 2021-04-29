@@ -21,6 +21,7 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 #### Languages Im learning
 
 - Visual Basic
+- Rust
 
 ### ✨ Communities I Am Active In
 
@@ -31,7 +32,8 @@ I am A High School Freshman Currently In Vocational School for Computer Networki
 ### 💎 Projects I have worked on
 
 - [Onryx](https://github.com/ToxicAven/onryx), A small Discord bot I made to get aquainted with Node and D.js
-- [Kami Blue](https://github.org/kami-blue/client) A now archived minecraft utility mod aimed at anarchy servers
+- [Kami Blue](https://github.org/kami-blue/client), A now archived minecraft utility mod aimed at anarchy servers
+  - Kami Blue is being continued as [Lambda Client](https://github.com/lambda-client/lambda)
 
 ![Jacob Herd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicAven&count_private=true&show_icons=true&theme=tokyonight)
 
